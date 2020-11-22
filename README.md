@@ -6,5 +6,6 @@ Project Description: Code-Refactor is a project to refactor a codebase of a webp
 First glance of the website: ![Screenshot](./assets/images/website_screenshot.jpg)
 
 Link to the project: 
-Github: https://github.com/archana-nagaraj/Code-Refactor
+Github: https://github.com/archana-nagaraj/Code-Refactor    
+
 GithubPages: https://archana-nagaraj.github.io/Code-Refactor/.
